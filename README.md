@@ -43,7 +43,7 @@ Data manipulation transforms the raw data into a more useful format for analysis
 ## 📊 Analysis and Visualizations
 
 ### What is the Relationship Between Wine Points and Price?
-![winepointsprice](assets\winepointsprice.png)
+![winepointsprice](assets/winepointsprice.png)
 
 
 >Description: This scatter plot shows the relationship between a wine's rating (points) and its price.
