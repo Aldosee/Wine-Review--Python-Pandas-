@@ -1,6 +1,6 @@
-# Wine Review Analysis
+# 🍷 Wine Review Analysis
 
-## Project Overview
+## 📖 Project Overview
 
 This project analyzes a dataset containing wine reviews to uncover insights into wine varieties, ratings, pricing, and geographic distribution. The goal is to answer questions such as which countries produce the most highly-rated wines, the relationship between wine points and price, and which wine varieties are most common. The analysis involves data cleansing, manipulation, and various visualization techniques to derive meaningful insights.
 
@@ -100,7 +100,7 @@ Some countries offer more affordable wine options while others (especially Franc
  - The bar chart shows the number of wine varieties produced in different countries with the United States having the highest number of varieties followed by France and Spain.
 
 
-## Tools Used
+## 🛠️ Tools Used
 This project utilized the following tools and libraries:
 
  - Python: Programming language used for data analysis
