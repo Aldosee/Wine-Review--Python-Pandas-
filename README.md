@@ -52,26 +52,26 @@ Data manipulation transforms the raw data into a more useful format for analysis
 
 
 ### Which country has the most highly-rated wines by points? (Showing the number of wines with points above 90 for each country.)
-![highratedwines90](assets\avgwine_points90.png)
+![highratedwines90](assets/avgwine_points90.png)
    
 >Description: This bar chart highlights which countries produce the most wines with points above 90.
 
  - Insight: Countries like France, Italy, and Spain lead in producing high-rated wines. This can be attributed to their long history of winemaking and diverse grape varieties.
 
 ### What are the most common wine varieties in the dataset?
-![commonwinevar](assets\top15winevarieties.png)
+![commonwinevar](assets/top15winevarieties.png)
    
 >Description: A pie chart representing the distribution of different wine varieties across the dataset.
  - Insight: Popular varieties include Cabernet Sauvignon, Chardonnay, Red Blend and Pinot Noir.  With these varieties being widely grown across major wine-producing countries.
 
 ### Which wineries consistently produce the highest-rated wines?
-![Producehighratedwines](assets\top15producewinevarhighrated.png)
+![Producehighratedwines](assets/top15producewinevarhighrated.png)
     
 >Description: This bar chart highlights which wineries produce high-rated wines.
  - Insight: The bar chart ranks the top 15 wineries based on their average wine points with Sloan leading the list followed by Baricci and Valdicava.
 
 ### Is there a correlation between a wine's origin (country or province) and its price?
-![corrpricecountry](assets\correlationwineorigprice.png)
+![corrpricecountry](assets/correlationwineorigprice.png)
     
 >Description: A box plot showing the price distribution of wines based on their country of origin.
 
@@ -94,7 +94,7 @@ Some countries offer more affordable wine options while others (especially Franc
 
 
 ### Which countries or regions have the widest variety of wines?
-![widestvarwine](assets\widestwinevariety.png)
+![widestvarwine](assets/widestwinevariety.png)
     
 >Description: A horizontal bar chart showing the number of wine varieties produced by each country.
  - The bar chart shows the number of wine varieties produced in different countries with the United States having the highest number of varieties followed by France and Spain.
