@@ -40,7 +40,7 @@ Data manipulation transforms the raw data into a more useful format for analysis
  - Calculating average wine prices: Summarizing the pricing data to identify trends.
  - Creating new features: Such as filtering wines by points (above 90) to focus on high-quality wines.
 
-## Analysis and Visualizations
+## 📊 Analysis and Visualizations
 
 ### What is the Relationship Between Wine Points and Price?
 ![wine_points_price](assets\wine_points_price.png)
@@ -103,10 +103,10 @@ Some countries offer more affordable wine options while others (especially Franc
 ## 🛠️ Tools Used
 This project utilized the following tools and libraries:
 
- - Python: Programming language used for data analysis
- - Pandas: For data manipulation and analysis
- - Matplotlib: For creating static visualizations
- - Seaborn: For statistical data visualization
- - Jupyter Notebook: For interactive coding and visualization
+ - **Python:** Programming language used for data analysis
+ - **Pandas:** For data manipulation and analysis
+ - **Matplotlib:** For creating static visualizations
+ - **Seaborn:** For statistical data visualization
+ - **Jupyter Notebook:** For interactive coding and visualization
 
 
